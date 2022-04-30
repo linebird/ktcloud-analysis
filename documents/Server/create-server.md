@@ -30,7 +30,7 @@
 
 ### 서버 생성 Activity Diagram
 
-![서버 생성 Activity Diagram](ActivityDiagram_서버생성.jpg)
+![서버 생성 Activity Diagram](../../images/ActivityDiagram_서버생성.jpg)
 
 ### 연동 포인트
 
