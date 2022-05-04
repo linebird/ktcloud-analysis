@@ -39,8 +39,11 @@
    2. Key Pair 조회
    3. 상품 조회
 2. DB
-  - 없음
+
+- 없음
   
 ### API로 추출할 기능
 
-사용자 계정으로 signature 생성
+- 사용자 계정으로 signature 생성 - openstack API
+- 서버 용도 선택(WEB/AP/DB/ETC, ETC default) - 단순 Code API
+- 상품 선택(서버 종류, OS, OS Version, CPU/MEM) - DB 조작 API
